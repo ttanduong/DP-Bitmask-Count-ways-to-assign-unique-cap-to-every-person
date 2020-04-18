@@ -17,6 +17,7 @@ There are 100 different types of caps each having a unique id from 1 to 100. Als
 >
 > 5 100
 >
-> Output:
+>
+> ###### Output:
 >
 > 4
